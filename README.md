@@ -23,7 +23,8 @@ The **Autism Prediction System** is a machine learning-based project to predict 
 - **Frameworks & Libraries**:  
   - Scikit-learn (Machine Learning)  
   - Pandas & NumPy (Data Processing)  
-  - Matplotlib (Visualization)  
+  - Matplotlib (Visualization)
+  - XGBoost (Model Training) 
   
 - **Tools**:  
   - Jupyter Notebook  
