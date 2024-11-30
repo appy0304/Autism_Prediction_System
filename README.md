@@ -1,7 +1,7 @@
 # Autism Prediction System  
 **An intelligent system to predict autism in individuals using  machine learning algorithms and user-friendly interfaces.**  
 
-![Autism Prediction System Banner](https://via.placeholder.com/1200x400?text=Autism+Prediction+System) <!-- Replace with a relevant image or logo -->
+<!--![Autism Prediction System Banner](https://via.placeholder.com/1200x400?text=Autism+Prediction+System)  Replace with a relevant image or logo -->
 
 ---
 
